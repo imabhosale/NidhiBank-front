@@ -1,5 +1,3 @@
-
-const  base_url1="http:ec2-18-221-113-239.us-east-2.compute.amazonaws.com";
-
+const  base_url1="http://localhost:8090";
 
 export default base_url1;
